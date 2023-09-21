@@ -23,13 +23,13 @@ django와 gpt-3.5-turbo를 이용하여 글 자동 완성 기능을 추가한 �
 <img src="https://github.com/OGUbanana/django_blog_jjango/assets/114931412/7030473a-db20-4dfd-8c8a-9a45a2776bbd" alt="미쳣습니까휴먼" style="width:700px; "/>
 
 <br>
+<br>
 
 <div id="2"></div>
 
 ## 📅 개발 기간
 2023.09.11(월) ~ 2023.09.19(화)
 
----
 <br>
 
 <div id="3"></div>
@@ -37,9 +37,7 @@ django와 gpt-3.5-turbo를 이용하여 글 자동 완성 기능을 추가한 �
 ## 🛠 기술 스택
 
 | <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" width="50px" height="50px" /> |<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="50px" height="50px" /> |<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="50px" height="50px" /> | <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50px" height="50px" />  | <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="50px" height="50px" /> |
-
 |:-:|:-:|:-:|:-:|:-:|
-
 | Django | Python | HTML5 | CSS3 | Javascript |
 
 ---
